@@ -1,0 +1,26 @@
+{
+  "name": "http_client",
+  "version": "1.0.5",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Dave",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hackathonPHX/nodeSchool.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hackathonPHX/nodeSchool/issues"
+  },
+  "homepage": "https://github.com/hackathonPHX/nodeSchool#readme",
+  "description": "NPM read me file. Usefull.\r Hopefully",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "http"
+  ]
+}
